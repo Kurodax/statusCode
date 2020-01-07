@@ -26,7 +26,7 @@ app.head('/', function (req, res){
 });
 
 app.put('/', function (req, res){
-  res.send('Medoto PUT');
+  res.send('Medoto PUT 0055');
 });
 
 
